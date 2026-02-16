@@ -143,7 +143,6 @@ By participating in this project, you agree to abide by its terms.
 Each version is supported until the next one is released (e.g. 1.1.x will be supported until 1.2.0 is out).
 
 We use [Semantic Versioning](https://semver.org/).
-
 ## Credits
 
 Kudos to [Peka](https://www.instagram.com/pierroks/) for his awesome work on the gopher's logo!.
